@@ -1,16 +1,15 @@
 # movietime
 
-A new Flutter project.
+# remaining
 
-## Getting Started
+- Unit test never had done before
 
-This project is a starting point for a Flutter application.
+# APK
+- https://drive.google.com/file/d/1EoF1a9dXAK6AMcFw4KF__LXKONHm002W/view?usp=sharing
 
-A few resources to get you started if this is your first Flutter project:
+# Versions
+- Flutter : 3.24.0
+- Dart : 3.5.0
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
